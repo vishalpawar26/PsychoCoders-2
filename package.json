@@ -13,10 +13,12 @@
     "@eslint/object-schema": "^2.1.4",
     "glob": "^11.0.0",
     "lru-cache": "^11.0.0",
+    "mongoose": "^8.5.1",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "rimraf": "^6.0.1"
+    "rimraf": "^6.0.1",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20",
