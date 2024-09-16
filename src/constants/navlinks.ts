@@ -5,14 +5,14 @@ export const navlinks = [
   },
   {
     name: "Problems",
-    path: "/problems",
+    path: "#problems",
   },
   {
     name: "About",
-    path: "/about",
+    path: "#about",
   },
   {
     name: "Contact",
-    path: "/contact",
+    path: "#contact",
   },
 ];
